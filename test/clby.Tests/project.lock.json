@@ -10484,8 +10484,8 @@
     },
     "clby.Extensions.Caching.MongoDB/1.0.0": {
       "type": "project",
-      "path": "../src/clby.Extensions.Caching.MongoDB/project.json",
-      "msbuildProject": "../src/clby.Extensions.Caching.MongoDB/clby.Extensions.Caching.MongoDB.xproj"
+      "path": "../../src/clby.Extensions.Caching.MongoDB/project.json",
+      "msbuildProject": "../../src/clby.Extensions.Caching.MongoDB/clby.Extensions.Caching.MongoDB.xproj"
     }
   },
   "projectFileDependencyGroups": {
