@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E26EAF11-FE4E-4C17-9BA0-542A8AE37C51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AFF38B78-22D9-47AA-AA8B-B9DBF87FEC39}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "clby.Extensions.Caching.MongoDB", "src\clby.Extensions.Caching.MongoDB\clby.Extensions.Caching.MongoDB.xproj", "{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3E61502D-AD8A-4623-B527-B41513B0C01B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "clby.Tests", "clby.Tests\clby.Tests.xproj", "{BAB7BF80-CAE3-4697-9504-72ABF234ABC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB7BF80-CAE3-4697-9504-72ABF234ABC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB7BF80-CAE3-4697-9504-72ABF234ABC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB7BF80-CAE3-4697-9504-72ABF234ABC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB7BF80-CAE3-4697-9504-72ABF234ABC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B0865D8-AE2C-4EA3-AFF2-E533D8EBB542} = {E26EAF11-FE4E-4C17-9BA0-542A8AE37C51}
+		{BAB7BF80-CAE3-4697-9504-72ABF234ABC1} = {3E61502D-AD8A-4623-B527-B41513B0C01B}
+	EndGlobalSection
+EndGlobal
