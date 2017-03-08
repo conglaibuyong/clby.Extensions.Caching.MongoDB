@@ -1,0 +1,11 @@
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Tests.deps.json
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Tests.runtimeconfig.json
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Tests.runtimeconfig.dev.json
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Tests.dll
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Tests.pdb
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Extensions.Caching.MongoDB.dll
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\bin\Debug\netcoreapp1.0\clby.Extensions.Caching.MongoDB.pdb
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\obj\Debug\netcoreapp1.0\clby.Tests.csprojResolveAssemblyReference.cache
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\obj\Debug\netcoreapp1.0\clby.Tests.AssemblyInfo.cs
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\obj\Debug\netcoreapp1.0\clby.Tests.dll
+D:\github\clby.Extensions.Caching.MongoDB\test\clby.Tests\obj\Debug\netcoreapp1.0\clby.Tests.pdb

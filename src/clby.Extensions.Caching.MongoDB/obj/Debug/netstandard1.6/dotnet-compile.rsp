@@ -1,5 +1,5 @@
---temp-output:C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\
---out:C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\bin\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.dll
+--temp-output:D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\
+--out:D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\bin\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -77,11 +77,11 @@
 --reference:C:\Users\FengW\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\FengW\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\FengW\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\CacheEntiry.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\DatabaseOperations.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\IDatabaseOperations.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\MongoDBCache.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\MongoDBCacheOptions.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\DependencyInjection\MongoDBCachingServicesExtensions.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Misc\Ensure.cs
-C:\Users\FengW\Desktop\wp\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Properties\AssemblyInfo.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\CacheEntiry.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\DatabaseOperations.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\IDatabaseOperations.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\MongoDBCache.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Caching.MongoDB\MongoDBCacheOptions.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\DependencyInjection\MongoDBCachingServicesExtensions.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Misc\Ensure.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\Properties\AssemblyInfo.cs

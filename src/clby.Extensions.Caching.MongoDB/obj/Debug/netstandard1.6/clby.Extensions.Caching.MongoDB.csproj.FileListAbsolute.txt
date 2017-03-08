@@ -1,0 +1,7 @@
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\bin\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.deps.json
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\bin\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.dll
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\bin\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.pdb
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.csprojResolveAssemblyReference.cache
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.AssemblyInfo.cs
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.dll
+D:\github\clby.Extensions.Caching.MongoDB\src\clby.Extensions.Caching.MongoDB\obj\Debug\netstandard1.6\clby.Extensions.Caching.MongoDB.pdb
